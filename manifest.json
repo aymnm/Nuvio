@@ -1,1 +1,9 @@
-
+{
+  "id": "cinemabox-ar",
+  "name": "CinemaBox AR",
+  "description": "Arabic CinemaBox streaming provider",
+  "version": "1.0.0",
+  "filename": "cinemabox.js",
+  "language": "ar",
+  "types": ["movie", "series"]
+}
