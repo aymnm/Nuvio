@@ -1,23 +1,18 @@
-{
+[
+  {
     "id": "cinemabox-ar",
     "name": "CinemaBox Arabic",
     "description": "Arabic CinemaBox streaming provider",
     "version": "1.0.0",
-    "author": "Your Name",
-    "supportedTypes": [
-        "movie",
-        "tv"
-    ],
+    "author": "aymnm",
+    "supportedTypes": ["movie", "tv"],
     "filename": "providers/cinemabox.js",
     "enabled": true,
     "logo": "",
-    "contentLanguage": [
-        "ar"
-    ],
-    "formats": [
-        "mp4"
-    ],
+    "contentLanguage": ["ar"],
+    "formats": ["mp4"],
     "limited": false,
     "disabledPlatforms": [],
     "supportsExternalPlayer": true
-}
+  }
+]
